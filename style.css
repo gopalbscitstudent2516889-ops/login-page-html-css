@@ -55,7 +55,8 @@ h2{
 
 .input-group{
     position: relative;
-    margin: 15px;
+    margin-top:5px;
+    margin-bottom: 15px;
     margin-left: 20px;
     margin-right: 35px;
    
@@ -134,4 +135,5 @@ h2{
     a{
         text-decoration: none;
     }
+
 }
